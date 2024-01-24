@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "603991696887",
+    "project_id": "wildpulse-cd30a",
+    "storage_bucket": "wildpulse-cd30a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603991696887:android:07dc83c329f0e8fa1abaf2",
+        "android_client_info": {
+          "package_name": "com.slideshow.wildpulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603991696887-1krgidvr5v6t9fomp8nfsv0bopqvd9ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slideshow.wildpulse",
+            "certificate_hash": "c45ee7dd633b1b551f74f37746415616496911dc"
+          }
+        },
+        {
+          "client_id": "603991696887-395k76k01vve73f5ilov9c8jl6cdj43e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALF3PuOxb3-bqpal03cfxGVzMs8ZhyRC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603991696887-395k76k01vve73f5ilov9c8jl6cdj43e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "603991696887-as7ta5b72cduihclh8g3ciakammfc93n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.slideshow.wildpulse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
