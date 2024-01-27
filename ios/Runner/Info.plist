@@ -18,10 +18,6 @@
 	<string>WildPulse</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
-	<key>FirebaseDynamicLinksCustomDomains</key>
-    <array>
-       <string>https://custom.domain.io/path1</string>
-    </array>
 	<key>CFBundleShortVersionString</key>
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
@@ -39,7 +35,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.603991696887-omtdoae165p5abfalk400ibg6k30oeq6</string>
+				<string>com.googleusercontent.apps.603991696887-uf1trojrlkb1jo50itgeqetfrtjl7amk</string>
 			</array>
 		</dict>
 	</array>
@@ -47,6 +43,10 @@
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
+	<key>FirebaseDynamicLinksCustomDomains</key>
+	<array>
+		<string>https://custom.domain.io/path1</string>
+	</array>
 	<key>GADApplicationIdentifier</key>
 	<string>ca-app-pub-3940256099942544~4411468910</string>
 	<key>ITSAppUsesNonExemptEncryption</key>

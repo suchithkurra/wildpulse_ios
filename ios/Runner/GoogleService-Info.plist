@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>603991696887-omtdoae165p5abfalk400ibg6k30oeq6.apps.googleusercontent.com</string>
+	<string>603991696887-uf1trojrlkb1jo50itgeqetfrtjl7amk.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.603991696887-omtdoae165p5abfalk400ibg6k30oeq6</string>
+	<string>com.googleusercontent.apps.603991696887-uf1trojrlkb1jo50itgeqetfrtjl7amk</string>
 	<key>ANDROID_CLIENT_ID</key>
 	<string>603991696887-1krgidvr5v6t9fomp8nfsv0bopqvd9ed.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
@@ -15,7 +15,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.slideshow.wildpulse1</string>
+	<string>com.slideshowmedia.wildpulsenews</string>
 	<key>PROJECT_ID</key>
 	<string>wildpulse-cd30a</string>
 	<key>STORAGE_BUCKET</key>
@@ -31,6 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:603991696887:ios:7772351cbec6053f1abaf2</string>
+	<string>1:603991696887:ios:acc77e07ee0cf4dd1abaf2</string>
 </dict>
 </plist>

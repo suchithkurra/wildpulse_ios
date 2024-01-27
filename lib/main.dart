@@ -44,7 +44,7 @@ void main() async {
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
-  OneSignal.shared.setAppId("1eaac1fa-083f-486c-84ea-a3c719f46240");
+  OneSignal.shared.setAppId("83cd0911-1105-4f81-b50a-7255fc626a34");
   await MobileAds.instance.initialize();
   // initialLink = await FirebaseDynamicLinks.instance.getInitialLink();
   SystemChrome.setPreferredOrientations([

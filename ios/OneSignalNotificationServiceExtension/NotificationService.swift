@@ -18,7 +18,7 @@ class NotificationService: UNNotificationServiceExtension {
         print("Running NotificationServiceExtension: userInfo = \(userInfo.description)")
         print("Running NotificationServiceExtension: custom = \(custom.debugDescription)")
       //debug log types need to be enabled in Console > Action > Include Debug Messages
-        os_log("%{public}@", log: OSLog(subsystem: "com.slideshow.wildpulse", category: "OneSignalNotificationServiceExtension"), type: OSLogType.debug, userInfo.debugDescription)
+        os_log("%{public}@", log: OSLog(subsystem: "com.slideshowmedia.wildpulsenews", category: "OneSignalNotificationServiceExtension"), type: OSLogType.debug, userInfo.debugDescription)
         
         if let bestAttemptContent = bestAttemptContent {
           bestAttemptContent.body = bestAttemptContent.body

@@ -63,6 +63,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: '603991696887',
     projectId: 'wildpulse-cd30a',
     storageBucket: 'wildpulse-cd30a.appspot.com',
-    iosBundleId: 'com.slideshow.wildpulse1',
+    iosBundleId: 'com.slideshowmedia.wildpulsenews',
   );
 }
