@@ -1,4 +1,4 @@
 class Urls {
-  static String baseUrl = "https://wildpulse.in/api/";
-  static String baseServer = "https://wildpulse.in/";
+  static String baseUrl = "http://wildpulse.in/api/";
+  static String baseServer = "http://wildpulse.in/";
 }
